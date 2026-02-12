@@ -9,3 +9,4 @@ docs/
 webpack/
 screencast.gif
 yarn.lock
+.yarnrc.yml
