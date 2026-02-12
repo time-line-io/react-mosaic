@@ -1,6 +1,6 @@
 {
   "name": "react-mosaic-component",
-  "version": "6.1.1",
+  "version": "6.1.2",
   "description": "A React Tiling Window Manager",
   "license": "Apache-2.0",
   "main": "lib/index.js",
@@ -41,20 +41,20 @@
     "version": "npm-run-all test bundle && git add -A docs/"
   },
   "dependencies": {
-    "classnames": "^2.3.2",
+    "classnames": "^2.5.1",
     "immutability-helper": "^3.1.1",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "prop-types": "^15.8.1",
-    "rdndmb-html5-to-touch": "^8.0.0",
+    "rdndmb-html5-to-touch": "^9.0.0",
     "react-dnd": "^16.0.1",
     "react-dnd-html5-backend": "^16.0.1",
-    "react-dnd-multi-backend": "^8.0.0",
+    "react-dnd-multi-backend": "^9.0.0",
     "react-dnd-touch-backend": "^16.0.1",
-    "uuid": "^9.0.0"
+    "uuid": "^13.0.0"
   },
   "devDependencies": {
-    "@blueprintjs/core": "^4.15.1",
-    "@blueprintjs/icons": "^4.13.1",
+    "@blueprintjs/core": "^6.7.0",
+    "@blueprintjs/icons": "^6.5.1",
     "@pmmmwh/react-refresh-webpack-plugin": "^0.5.10",
     "@types/chai": "^4.3.0",
     "@types/classnames": "^2.3.1",
